@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya-shaw
-- 👀 I’m interested in Programming and Hacking.
+- 👀 I’m interested in Programming and Development.
 - 🌱 I’m currently learning about Computer Languages and Fundamentals.
-- 💞️ I’m looking to collaborate on Cyber Security and Web Development.
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Web Development.
 - 📫 How to reach me 9038763903
 
 <!---
